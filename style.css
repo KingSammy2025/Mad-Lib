@@ -1,4 +1,4 @@
-html {
+ html {
   background: url("images/airplane\ background\ image.jpg") no-repeat center
     fixed;
   background-size: cover;
@@ -38,6 +38,7 @@ li {
   margin-bottom: 10px;
 }
 
-.note {
-  margin-left: 15px;
+.space {
+  margin-left: 20px;
 }
+
